@@ -11,7 +11,7 @@ I'm a Software Engineering 🎓 and Master in Data Science 🧠 from Icesi Unive
 
 Joined Github **4** years ago.
 
-Since then I pushed **631**+ commits, opened **23**+ issues, submitted **259**+ pull requests, created **1**+ gists and contributed to **24**+ public repositories.
+Since then I pushed **631**+ commits, opened **23**+ issues, submitted **260**+ pull requests, created **1**+ gists and contributed to **24**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/yesid-lopez/iampavangandhi/master/gifs/coder.gif" />
 
