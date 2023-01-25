@@ -9,9 +9,9 @@
 
 I'm a Software Engineering 🎓 and Master in Data Science 🧠 from Icesi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Science 🧑🏻‍🔬 and Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
-Since then I pushed **631**+ commits, opened **23**+ issues, submitted **260**+ pull requests, created **1**+ gists and contributed to **24**+ public repositories.
+Since then I pushed **633**+ commits, opened **23**+ issues, submitted **262**+ pull requests, created **1**+ gists and contributed to **24**+ public repositories.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/yesid-lopez/iampavangandhi/master/gifs/coder.gif" />
 
